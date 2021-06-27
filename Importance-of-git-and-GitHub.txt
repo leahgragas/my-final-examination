@@ -1,0 +1,5 @@
+Git is an open source
+ distributed version-control 
+system.GitHub is a website for 
+developers and programmers to 
+collaboratively work on code.
